@@ -1,0 +1,3 @@
+* Admin project for Odin
+** Design it all using grid
+** Gave it an orange theme and some random icons
